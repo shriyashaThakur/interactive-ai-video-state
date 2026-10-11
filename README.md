@@ -1,4 +1,4 @@
-**🌐 Live Demo: [https://interactive-ai-video-state.vercel.app/](https://interactive-ai-video-state.vercel.app/)
+**🌐 Live Demo:** [https://interactive-ai-video-state.vercel.app/](https://interactive-ai-video-state.vercel.app/)
 
 ---
 
