@@ -1,4 +1,4 @@
-**🌐 Live Demo:[https://vercel.com/shriyashathakur06-9419s-projects/interactive-ai-video-state/Duw513fXLcXkAPAfHrqNv9tUQZVe](https://vercel.com/shriyashathakur06-9419s-projects/interactive-ai-video-state/Duw513fXLcXkAPAfHrqNv9tUQZVe)
+**🌐 Live Demo: [https://interactive-ai-video-state.vercel.app/](https://interactive-ai-video-state.vercel.app/)
 
 ---
 
